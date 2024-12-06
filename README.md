@@ -41,6 +41,7 @@ Berikut adalah daftar library Python yang digunakan dalam proyek ini, beserta fu
 | `cv2`           | Digunakan untuk menangkap gambar dari kamera dan memproses gambar secara langsung.          |
 | `mediapipe`      | Digunakan untuk mendeteksi landmark wajah, seperti posisi hidung, untuk mendeteksi gerakan kepala. |
 | `random`         | Digunakan untuk memilih pertanyaan "Truth" atau tantangan "Dare" secara acak.              |
+| `pygame`         | Digunakan untuk menambahkan warna, teks, visual dan animasi dalam filter                   |
 | `time`           | Digunakan untuk mengimplementasikan countdown timer untuk setiap sesi Truth atau Dare.      |
 
 ---
