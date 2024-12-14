@@ -9,11 +9,11 @@
 ---
 
 ## **Anggota Kelompok**
-| **Nama**              | **NIM**          |
-|-----------------------|------------------|
-| [Nasrul Alfin Prassetyo]      | [121140001]  |
-| [Muhammad Faisal Safira]      | [121140139]  |
-| [Muhamad Ivan Aulia]      | [121140100]  |
+| **Nama**                 | **NIM**     |**ID GITHUB**                                     |
+|--------------------------|-------------|--------------------------------------------------|
+| [Nasrul Alfin Prassetyo] | [121140001] |<a href="https://github.com/JOKIPIN">@JOKIPIN</a> |
+| [Muhammad Faisal Safira] | [121140139] |<a href="https://github.com/MFaisal00359">@MFaisal00359</a> |
+| [Muhamad Ivan Aulia]     | [121140100] | |
 
 ---
 
