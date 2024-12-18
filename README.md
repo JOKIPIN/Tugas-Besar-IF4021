@@ -42,6 +42,7 @@ Berikut adalah daftar library Python yang digunakan dalam proyek ini, beserta fu
 | `mediapipe`      | Digunakan untuk mendeteksi landmark wajah, seperti posisi hidung, untuk mendeteksi gerakan kepala. |
 | `random`         | Digunakan untuk memilih pertanyaan "Truth" atau tantangan "Dare" secara acak.              |
 | `time`           | Digunakan untuk mengimplementasikan countdown timer untuk setiap sesi Truth atau Dare.      |
+| `pygame`         | Digunakan menambahkan elemen audio, efek suara, atau meningkatkan antarmuka grafis, dan juga ada peran dalam logika filter |
 
 ---
 
@@ -55,12 +56,12 @@ Berikut adalah daftar library Python yang digunakan dalam proyek ini, beserta fu
 ### **2. Countdown Timer**
 - Pengguna diberikan waktu untuk menjawab Truth atau menyelesaikan Dare sebelum filter kembali ke mode netral.
 
-### **3. Antarmuka Elegan**
+### **3. Antarmuka Filter**
 - Tampilan mencakup:  
   - Informasi arah gerakan kepala untuk panduan pengguna.
 
-### **4. Animasi dan Efek Visual**
-- Animasi warna pada teks saat menampilkan Truth atau Dare.  
+### **4. Warna Gradient atau bakground Filter**
+- Warna pada gradient dan antarmuka.  
 
 ---
 
@@ -68,6 +69,7 @@ Berikut adalah daftar library Python yang digunakan dalam proyek ini, beserta fu
 1. **Pastikan library berikut terinstal di Python Anda:**
    - OpenCV (`pip install opencv-python`)
    - Mediapipe (`pip install mediapipe`)
+   - pygame (`pip install pygame`)
 2. **Buka file proyek di Jupyter Lab atau VS Code.**
 3. **Pastikan kamera eksternal atau internal sudah terhubung.**
 4. **Jalankan program**
