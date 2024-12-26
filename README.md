@@ -7,6 +7,12 @@
 </p>
 
 ---
+## Informasi Proyek  
+
+Proyek ini merupakan tugas mata kuliah MULTIMEDIA-IF4021 pada Program Studi Teknik Informatika.  
+Dosen Pengampu: Martin C.T. Manullang S.T., M.T.  
+
+---
 
 ## **Anggota Kelompok**
 | **Nama**                 | **NIM**     |**ID GITHUB**                                     |
